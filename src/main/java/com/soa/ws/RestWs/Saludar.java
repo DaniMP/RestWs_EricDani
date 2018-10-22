@@ -14,7 +14,7 @@ public class Saludar{
         return id;
     }
 
-    public String getContent() {
+    public String getNombre() {
         return nombre;
     }
 }
